@@ -1,0 +1,23 @@
+{
+  "name": "clother-api",
+  "version": "1.0.0",
+  "description": "My clothes store API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jnah134/clother-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jnah134/clother-api/issues"
+  },
+  "homepage": "https://github.com/Jnah134/clother-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
