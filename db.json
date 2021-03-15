@@ -1,0 +1,52 @@
+{
+  "clothes": [
+    {
+      "id": 1,
+      "name": "Dri-Fit Get Fit",
+      "image": "https://unsplash.com/photos/ehdI_89nzMo",
+      "price": 75
+    },
+    {
+      "id": 2,
+      "name": "Indy-Short Bra",
+      "image": "https://unsplash.com/photos/CvYZwRRifzo",
+      "price": 40
+    },
+    {
+      "id": 3,
+      "name": "Beach-Skirt Pink",
+      "image": "https://unsplash.com/photos/pUY4bhUYnK4",
+      "price": 60
+    },
+    {
+      "id": 4,
+      "name": "Modern-Pant LC",
+      "image": "https://unsplash.com/photos/ehdI_89nzMo",
+      "price": 39.99
+    },
+    {
+      "id": 5,
+      "name": "Women Red Dress",
+      "image": "https://unsplash.com/photos/BAoncvnAl8I",
+      "price": 90
+    },
+    {
+      "id": 6,
+      "name": "Yellow Skirt For Women",
+      "image": "https://unsplash.com/photos/TDIvZERpy_M",
+      "price": 120
+    },
+    {
+      "id": 7,
+      "name": "Swimming-Pool Dress",
+      "image": "https://unsplash.com/photos/N7YaZf7szz0",
+      "price": 79.99
+    },
+    {
+      "id": 8,
+      "name": "Jean Dress CL-P",
+      "image": "https://unsplash.com/photos/TDOClniEwmI",
+      "price": 90
+    }
+  ]
+}
