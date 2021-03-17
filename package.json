@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Jnah134/clother-api#readme",
   "dependencies": {
+    "heroku-connect-plugin": "^0.9.0",
     "json-server": "^0.16.3"
   }
 }
